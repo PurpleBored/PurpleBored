@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am working on a Hummus desktop app and on a email provider<br>I am liteary learning rn <br>I am sadly polish
-
+---
+[![](https://visitcount.itsvg.in/api?id=PurpleBored&icon=3&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/sXDsDUKMY8) 
@@ -15,5 +16,4 @@ I am working on a Hummus desktop app and on a email provider<br>I am liteary lea
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PurpleBored&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=PurpleBored&icon=3&color=1)](https://visitcount.itsvg.in)
+
