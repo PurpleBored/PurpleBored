@@ -14,6 +14,6 @@ Hello! I'm Niko,<br>Currently i am learning Discord.js, JS, CSS, HTML<br>I am fr
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/purplebored) 
-
-  
+## Discord
+ [![Discord Presence](https://lanyard.cnrad.dev/api/818911241006874644)](https://discord.com/users/818911241006874644)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
