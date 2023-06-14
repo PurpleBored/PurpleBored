@@ -10,7 +10,7 @@ Hello! I'm Niko,<br>Currently i am learning Discord.js, JS, CSS, HTML<br>I am fr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleBored&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PurpleBored&icon=1&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=PurpleBored&label=Profile%20Views&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/purplebored) 
