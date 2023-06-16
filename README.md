@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Niko,<br>Currently i am learning Discord.js, JS, CSS, HTML<br>I am from Poland 
+Hello! I'm Niko,<br>Currently i am learning Discord.js, JS, CSS, HTML
 
 
 # 💻 Tech Stack:
