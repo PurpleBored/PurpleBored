@@ -12,7 +12,3 @@ Hello! I'm Niko,<br>Currently i am learning Discord.js, JS, CSS, HTML
 ---
 [![](https://visitcount.itsvg.in/api?id=PurpleBored&label=Profile%20Views&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/purplebored) 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
