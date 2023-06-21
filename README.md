@@ -10,5 +10,6 @@ Hello! I'm Niko,<br>Currently i am learning JS, CSS, HTML
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleBored&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+# 👀 Profile Views:
 [![](https://visitcount.itsvg.in/api?id=PurpleBored&label=Profile%20Views&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
