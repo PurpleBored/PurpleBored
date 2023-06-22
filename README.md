@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Niko,<br>Currently i am learning JS, CSS, HTML
+Hello! I'm Niko,<br>Currently i am learning JS, CSS, HTML.<br>I love creating uselesss shit.
 
 
 # 💻 Tech Stack:
