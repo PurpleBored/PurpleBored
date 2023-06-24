@@ -9,7 +9,6 @@ Hello! I'm Niko,<br>Currently i am learning JS, CSS, HTML.<br>I love creating us
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PurpleBored&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleBored&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-# 👀 Profile Views:
-[![](https://visitcount.itsvg.in/api?id=PurpleBored&label=Profile%20Views&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
-
+# 🕸 My Sites:
+- https://purplebored.pl
+- https://envs.net/~purplebored
