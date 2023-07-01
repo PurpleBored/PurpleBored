@@ -17,7 +17,7 @@ Feel free to explore my repositories for more projects and contributions!
 ## 📬 Get in Touch
 
 - Email: thepolishfemboy@keemail.me
-- Website: https://contact.purplebored.pl (WIP)
+- Website: https://purplebored.pl/contact (WIP)
 - Discord: @niko2077.
 - Twitter: @purplebored.
 ## 📝 License
