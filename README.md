@@ -1,6 +1,6 @@
 # Hi, I'm Purplebored! 👋
 # 💫 About Me:
-Hello! I'm Niko,<br>Currently i am learning JS, CSS, HTML.<br>I love creating uselesss stuff.
+Hello! I'm Niko,<br>Currently i am learning JS, CSS, HTML, And russian of all the things lol.<br>I love creating uselesss stuff.
 ## 🔭 Projects
 
 Here are some of my notable projects:
@@ -32,4 +32,4 @@ This GitHub profile and its contents are licensed under MIT license. Feel free t
 
 # 🕸 My Portfolio websites:
 - https://purplebored.pl (WIP)
-- https://envs.net/~purplebored
+- https://envs.net/~purplebored (WIP too)
