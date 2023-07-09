@@ -5,7 +5,7 @@ Hello! I'm Niko,<br>Currently i am learning JS, CSS, HTML, And russian of all th
 
 Here are some of my notable projects:
 
-- pass.purplebored.pl: A Very simple password manager writen in HTML CSS and JS.
+- pass.purplebored.pl: A Very simple password generator writen in HTML CSS and JS.
   - Repository: https://github.com/PurpleBored/Simple-password-generator
   - Demo: [Link to the website.](https://pass.purplebored.pl)
 
