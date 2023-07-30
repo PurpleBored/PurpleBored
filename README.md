@@ -14,6 +14,11 @@ Here are some of my notable projects:
   - Demo: [Link to the website.](https://neko.purplebored.pl)
 
 Feel free to explore my repositories for more projects and contributions!
+
+## 😎 Stuff i self host
+- bin.purplebored.pl: A Private Bin Instance.
+- bio.purplebored.pl: A Linkstack instance I host.
+
 ## 📬 Get in Touch
 
 - Email: thepolishfemboy@keemail.me
