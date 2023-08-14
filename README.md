@@ -18,6 +18,7 @@ Feel free to explore my repositories for more projects and contributions!
 ## 😎 Stuff i self host
 - bin.purplebored.pl: A Private Bin Instance.
 - bio.purplebored.pl: A Linkstack instance I host.
+- music.purplebored.pl: A navidrome server wich i host (It's Private rn get in touch with me to get a account.)
 
 ## 📬 Get in Touch
 
@@ -36,5 +37,5 @@ This GitHub profile and its contents are licensed under MIT license. Feel free t
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleBored&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 🕸 My Portfolio websites:
-- https://purplebored.pl (WIP)
+- https://purplebored.pl (WIP (Mostly Finished))
 - https://envs.net/~purplebored (WIP too)
