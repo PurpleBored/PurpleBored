@@ -10,7 +10,7 @@ Hello! I'm Niko,<br>Currently learning C#.<br>
 
 ## 📬 Get in Touch
 
-- Email: thepolishfemboy@keemail.me
+- Email: n1ko@shitposting.expert
 - Discord: @niko2077.
 - Mastodon: @20PLN@101010.pl (Alt:@966@orchard.social.)
 - Matrix: @purplebored:beeper.com.
