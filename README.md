@@ -1,3 +1,5 @@
+# I moved to codeberg
+https://codeberg.org/Purplebored
 # Hi, I'm Purplebored! 👋
 # 💫 About Me:
 Hello! I'm Niko,<br>Currently learning C#.<br>
