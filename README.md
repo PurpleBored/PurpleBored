@@ -24,3 +24,6 @@ This GitHub profile and its contents are licensed under MIT license. Please feel
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PurpleBored&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleBored&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/818911241006874644)](https://discord.com/users/818911241006874644)
