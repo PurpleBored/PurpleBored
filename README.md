@@ -3,6 +3,9 @@
 Hello! I'm Niko,<br>Currently learning [C#](https://learn.microsoft.com/pl-pl/dotnet/csharp/) and [Ruby](https://www.ruby-lang.org).<br>
 You can also find me on [Codeberg](https://codeberg.com/purplebored) and [Gitlab](https://gitlab.com/Purplebored).
 
+## Stuff I like working with!
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,discord,github,gitlab,idea,ruby,visualstudio&theme=light)](https://skillicons.dev)
+
 ## 😎 Stuff i self-host
 - [Private Pastebin](bin.purplebored.pl): A Private Bin Instance.
 - [Zerobin Alpha 0.19](https://oldpb.purplebored.pl)
