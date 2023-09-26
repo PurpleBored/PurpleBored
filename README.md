@@ -5,6 +5,7 @@ You can also find me on [Codeberg](https://codeberg.com/purplebored) and [Gitlab
 
 ## 😎 Stuff i self-host
 - [Private Pastebin](bin.purplebored.pl): A Private Bin Instance.
+- [Zerobin Alpha 0.19](https://oldpb.purplebored.pl)
 - [Linkstack](bio.purplebored.pl): A Linkstack instance I host.
 - [Librespeed](https://speed.purplebored.pl): A LibreSpeed instance using a Polish Warsaw Server.
 - [Navidrome Music Server](music.purplebored.pl): A navidrome server that I host (It's Private rn get in touch with me to get an account.)
