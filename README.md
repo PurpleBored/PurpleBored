@@ -16,7 +16,7 @@ You can also find me on [Codeberg](https://codeberg.com/purplebored) and [Gitlab
 ## 📬 Get in Touch
 - Email: n1ko@shitposting.expert
 - Discord: @niko2077.
-- Matrix: @purplebored:beeper.com.
+- Matrix: [Matrix](https://matrix.to/#/@purplebored:beeper.com)
 
 ## 📝 License
 This GitHub profile and its contents are licensed under MIT license. Please feel free to use and modify the code according to the license terms.
