@@ -14,7 +14,6 @@ You can also find me on [Codeberg](https://codeberg.com/purplebored) and [Gitlab
 - [Navidrome Music Server](music.purplebored.pl): A navidrome server that I host (It's Private rn get in touch with me to get an account.)
 
 ## 📬 Get in Touch
-- Email: n1ko@shitposting.expert
 - Discord: @niko2077.
 - Matrix: [Matrix](https://matrix.to/#/@purplebored:beeper.com)
 
