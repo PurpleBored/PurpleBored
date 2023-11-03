@@ -11,7 +11,6 @@ You can also find me on [Codeberg](https://codeberg.com/purplebored) and [Gitlab
 - [Zerobin Alpha 0.19](https://oldpb.purplebored.pl): A Zerobin Instance. (Old Privatebin from 2015).
 - [Linkstack](bio.purplebored.pl): A Linkstack instance I host.
 - [Librespeed](https://speed.purplebored.pl): A LibreSpeed instance using a Polish Warsaw Server.
-- [Navidrome Music Server](music.purplebored.pl): A navidrome server that I host (It's Private rn get in touch with me to get an account.)
 
 ## 📬 Get in Touch
 - Discord: @niko2077.
