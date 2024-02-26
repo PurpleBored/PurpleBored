@@ -1,10 +1,10 @@
 # Hi, I'm Purplebored! aka Niko 👋
 ## 💫 About Me:
-Hello! I'm Niko,<br>Currently learning [C#](https://learn.microsoft.com/pl-pl/dotnet/csharp/) and [Ruby](https://www.ruby-lang.org).<br>
+Hello! I'm Niko,<br>Currently learning [C#](https://learn.microsoft.com/pl-pl/dotnet/csharp/).<br>
 You can also find me on [Codeberg](https://codeberg.com/purplebored) and [Gitlab](https://gitlab.com/Purplebored).
 
 ## Stuff I like working with!
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,discord,github,gitlab,idea,ruby,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,discord,github,gitlab,idea)](https://skillicons.dev)
 
 ## 😎 Stuff i self-host
 - [Private Pastebin](bin.purplebored.pl): A Private Bin Instance.
@@ -14,7 +14,8 @@ You can also find me on [Codeberg](https://codeberg.com/purplebored) and [Gitlab
 
 ## 📬 Get in Touch
 - Discord: @niko2077.
-- Matrix: [Matrix](https://matrix.to/#/@purplebored:beeper.com)
+- Signal: @alek.69 (Preferd way)
+- Telegram: @purplebored
 
 ## 📝 License
 This GitHub profile and its contents are licensed under MIT license. Please feel free to use and modify the code according to the license terms.
