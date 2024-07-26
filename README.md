@@ -30,4 +30,4 @@ So there are a few diffrent ways of contacting me. The ones that are the most id
 - Threema: VJDX9X66
 - Signal: alek.69
 
-*If you want to use email please use PGP! You can get my public PGP key from the file named "pgp"
+*If you want to use email please use PGP! You can get my public PGP key from [here!](https://purplebored.pl/pgp.html)
